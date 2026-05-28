@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Ambient Diagonal drop-shadow -->
+    <path
+        android:pathData="M32 32 L76 76 L54 88 Z"
+        android:fillColor="#1A000000" />
+        
+    <!-- Main Cloud Icon Group (Center coordinates: 54, 54) -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M54,32 C41.8,32 32,41.8 32,54 C32,54.7 32.1,55.3 32.1,56 C25.4,56.7 20,62.4 20,69.5 C20,77 26,83 33.5,83 L74.5,83 C82,83 88,77 88,69.5 C88,62.4 82.6,56.7 75.9,56 C75.9,55.3 76,54.7 76,54 C76,41.8 66.2,32 54,32 Z" />
+
+    <!-- Overlaid Security Shield (Center Blue Accent) -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M54,44 L70,49 L70,62 C70,71.5 62.5,77.5 54,80 C45.5,77.5 38,71.5 38,62 L38,49 Z" />
+
+    <!-- Shield highlights/cut (left half lighter color) -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M54,44 L54,80 C45.5,77.5 38,71.5 38,62 L38,49 Z" />
+
+    <!-- Padlock Shackle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:pathData="M48,59 L48,55 C48,51.7 50.7,49 54,49 C57.3,49 60,51.7 60,55 L60,59" />
+
+    <!-- Padlock Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,58 L63,58 C64.7,58 66,59.3 66,61 L66,69 C66,70.7 64.7,72 63,72 L45,72 C43.3,72 42,70.7 42,69 L42,61 C42,59.3 43.3,58 45,58 Z" />
+
+    <!-- Keyhole -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M54,62 C55,62 56,63 56,64 C56,64.7 55.5,65.3 55,65.7 L55,68.5 C55,69 54.5,69.5 54,69.5 C53.5,69.5 53,69 53,68.5 L53,65.7 C52.5,65.3 52,64.7 52,64 C52,63 53,62 54,62 Z" />
+
+</vector>

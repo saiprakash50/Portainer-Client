@@ -1,0 +1,6 @@
+{
+  "name": "Portainer Client",
+  "description": "Securely manage Portainer instances, monitor containers, and deploy stacks with Biometric Authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

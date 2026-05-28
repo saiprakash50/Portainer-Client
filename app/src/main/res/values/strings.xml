@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Portainer Client</string>
+    <string name="add_connection">Add Portainer Connection</string>
+    <string name="edit_connection">Edit Portainer Connection</string>
+    <string name="connection_name">Connection Name</string>
+    <string name="connection_url">Portainer URL (e.g., https://192.168.1.10:9443)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="biometric_auth_title">Fingerprint / Face Unlock Required</string>
+    <string name="biometric_auth_subtitle">Authenticate to access your Portainer dashboard</string>
+    <string name="biometric_auth_negative">Cancel</string>
+    <string name="biometric_not_available">Biometric authentication is not configured or supported on this device. Access is allowed for development/evaluation.</string>
+    <string name="no_connections">No Portainer connections configured yet.</string>
+    <string name="invalid_url">Please enter a valid HTTP/HTTPS URL.</string>
+    <string name="fields_empty">Please fill in both name and URL fields.</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_remember_password">Remember Password</string>
+</resources>
